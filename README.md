@@ -1,8 +1,13 @@
-# FocusFlow Official Website
-GitHub Pages site for FocusFlow by ERU CLARISSA.
+# ERU CLARISSA — GitHub Pages
 
-Before production:
-- Replace the support placeholder with the final support email.
-- Update the privacy policy to exactly match the app's final data practices.
-- Add the final Google Play URL.
-- When AdMob is enabled, publish a valid `app-ads.txt` using the publisher information supplied by AdMob.
+https://eru-clarissa.github.io/
+
+- `/` … app list
+- `/focusflow/` … CLARISSA — Focus Timer
+- `/focusflow/privacy.html` … privacy policy (register this URL in Play Console)
+- `/privacy.html` … old URL, redirects to the new privacy policy
+- `/contact.html` … contact (all apps)
+
+When AdMob is approved, put `app-ads.txt` in the root folder (next to index.html).
+When the app is published, replace "Google Play — Coming soon" in `focusflow/index.html` with the store link:
+https://play.google.com/store/apps/details?id=com.eruclarissa.focusflow
