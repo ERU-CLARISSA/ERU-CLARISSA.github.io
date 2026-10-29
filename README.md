@@ -7,6 +7,8 @@ https://eru-clarissa.github.io/
 - `/focusflow/privacy.html` … privacy policy (register this URL in Play Console)
 - `/annakarenina/` … Anna Karenina (to-do list)
 - `/annakarenina/privacy.html` … privacy policy (register this URL in Play Console)
+- `/beatrice/` … Beatrice (habit tracker)
+- `/beatrice/privacy.html` … privacy policy (register this URL in Play Console)
 - `/privacy.html` … old URL, redirects to the new privacy policy
 - `/contact.html` … contact (all apps)
 
@@ -16,3 +18,6 @@ https://play.google.com/store/apps/details?id=com.eruclarissa.focusflow
 
 When Anna Karenina is published, replace "Google Play — Coming soon" in `annakarenina/index.html` with:
 https://play.google.com/store/apps/details?id=com.eruclarissa.annakarenina
+
+When Beatrice is published, replace "Google Play — Coming soon" in `beatrice/index.html` with:
+https://play.google.com/store/apps/details?id=com.eruclarissa.beatrice
