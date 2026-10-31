@@ -13,7 +13,7 @@ https://eru-clarissa.github.io/
 - `/contact.html` … contact (all apps)
 
 When AdMob is approved, put `app-ads.txt` in the root folder (next to index.html).
-When the app is published, replace "Google Play — Coming soon" in `focusflow/index.html` with the store link:
+FocusFlow (CLARISSA — Focus Timer) is published (2026-10-31). `focusflow/index.html` links to:
 https://play.google.com/store/apps/details?id=com.eruclarissa.focusflow
 
 When Anna Karenina is published, replace "Google Play — Coming soon" in `annakarenina/index.html` with:
