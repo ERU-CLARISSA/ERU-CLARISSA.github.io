@@ -11,6 +11,8 @@ https://eru-clarissa.github.io/
 - `/beatrice/privacy.html` … privacy policy (register this URL in Play Console)
 - `/juliet/` … Juliet (photocard maker)
 - `/juliet/privacy.html` … privacy policy (register this URL in Play Console)
+- `/takaiko/` … Takaiko (garbage day calendar for Japan, 21 languages; page in Japanese)
+- `/takaiko/privacy.html` … privacy policy (register this URL in Play Console)
 - `/privacy.html` … old URL, redirects to the new privacy policy
 - `/contact.html` … contact (all apps)
 
@@ -26,3 +28,6 @@ https://play.google.com/store/apps/details?id=com.eruclarissa.beatrice
 
 When Juliet is published, replace "Google Play — Coming soon" in `juliet/index.html` with:
 https://play.google.com/store/apps/details?id=com.eruclarissa.juliet
+
+When Takaiko is published, replace "Google Play — Coming soon" in `takaiko/index.html` with:
+https://play.google.com/store/apps/details?id=com.eruclarissa.garbage
